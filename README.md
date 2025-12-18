@@ -11,6 +11,7 @@
       background: linear-gradient(135deg, #1e3c72, #2a5298);
       margin: 0;
       padding: 0;
+      overflow: hidden;
       display: flex;
       justify-content: center;
       align-items: center;
