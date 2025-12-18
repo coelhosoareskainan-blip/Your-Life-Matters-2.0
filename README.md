@@ -31,7 +31,7 @@
     }
     h1 {
       text-align: center;
-      color: #1e3c72;
+      color: #721e1e;
       margin-bottom: 10px;
     }
     .subtitle {
